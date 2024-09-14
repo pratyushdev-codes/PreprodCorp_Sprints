@@ -1,7 +1,7 @@
 import sqlite3
 
 # Create a connection to the database
-con = sqlite3.connect("tutorial.db")
+con = sqlite3.connect("test.db")
 cur = con.cursor()
 print("Opened Successfully")
 
