@@ -1,0 +1,7 @@
+{
+    "name": "User-Based-Collaborative-Filtering",
+    "version": "1.0.0",
+    "description": "This code implements User-Based Collaborative Filtering for movie recommendations.",
+    "author": "Pratyush Birole",
+    "license": "MIT"
+  }
