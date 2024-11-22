@@ -1,0 +1,6 @@
+{
+    "name": "A3C",
+    "author": "Pratyush Birole",
+    "description": "Implementation of Asynchronous Advantage Actor-Critic (A3C) for CartPole environment",
+    "license": "MIT"
+  }
