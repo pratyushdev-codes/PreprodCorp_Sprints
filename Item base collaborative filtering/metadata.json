@@ -1,0 +1,13 @@
+{
+    "project_name": "Item-Based Collaborative Filtering",
+    "description": "A Python implementation of item-based collaborative filtering using a movie rating dataset. The script recommends movies based on user ratings and correlations.",
+    "author": "Pratyush Jagdish Birole",
+    "date_created": "14 Oct 2024",
+    "dependencies": {
+      "pandas": "^1.5.0",
+      "numpy": "^1.21.0",
+      "matplotlib": "^3.4.0",
+      "seaborn": "^0.11.0"
+    }
+
+}
